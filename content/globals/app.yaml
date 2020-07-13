@@ -1,0 +1,8 @@
+title: App
+data:
+  name: 'Site name'
+  description: 'Site description'
+  keywords: 'Site jeywords'
+  author: 'author'
+  webmasterContact: 'webmaster@domain.tld'
+  googleTag: ''
